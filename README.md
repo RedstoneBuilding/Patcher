@@ -1,6 +1,6 @@
 # Patcher
 
-[Release](https://img.shields.io/github/stars/RedstoneBuilding/Patcher)
+[![Release](https://img.shields.io/github/stars/RedstoneBuilding/Patcher)] 
 
 
 
