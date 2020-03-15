@@ -1,6 +1,6 @@
 # Patcher
 
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+[![Release] (https://img.shields.io/github/stars/RedstoneBuilding/Patcher)] 
 
 
 
