@@ -8,9 +8,9 @@ This small application is made to apply patches on software.
 
 ## Usage
 
-### -applyDir [Directory where the patch should be applied to]
+* -applyDir [Directory where the patch should be applied to]
 
-### -fileDir [The update file (zip)] 
+* -fileDir [The update file (zip)] 
 
 ## Examples
 
