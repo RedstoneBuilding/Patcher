@@ -16,5 +16,9 @@ This small application is made to apply patches on software.
 
 * ``` Patcher.exe -applydir C:/Users/User/patchDir -fileDir C:/Users/User/patch file.zip ```
 
+## Support
+
+If you need support join our [official discord server}
+
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/RedstoneBuilding/patcher)
 
