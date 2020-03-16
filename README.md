@@ -18,7 +18,7 @@ This small application is made to apply patches on software.
 
 ## Support
 
-If you need support join our [official discord server}
+If you need support join our [official discord server](https://discord.gg/nfqSF9e) 
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/RedstoneBuilding/patcher)
 
